@@ -1,0 +1,138 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.fsec {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.fsec nav div h4 {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+
+
+
+
+.left-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.left-nav a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    color: gray;
+    margin: 20px;
+
+}
+
+.foot-nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    margin: 80px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.s-sec {
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+.back-img {
+    position: absolute;
+
+}
+
+.img-right {
+    position: relative;
+
+
+}
+
+.img-right img {
+    position: absolute;
+
+    left: 450px;
+}
+
+.back-foot{
+    position: relative;
+}
+.foot-f{
+
+
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+span {
+    color: #96318D;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.i-i-i {
+    display: flex;
+    margin: 10px;
+    padding: 100px;
+    border: 1px solid black;
+    width: 120px;
+}
